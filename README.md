@@ -1,6 +1,6 @@
 # 💻 Sudarshan Badana Portfolio
 
-![Screenshot](./Screenshot%202025-06-13%20at%205.53.48%E2%80%AFPM.png)
+<img src="./port.png">
 
 Welcome to my **Personal Portfolio Website**!  
 This is a fully responsive front-end project made using **React.js** and **Tailwind CSS**, designed to showcase my skills, projects, and contact information in a sleek, interactive way.
@@ -39,11 +39,7 @@ Hi, I'm **Sudarshan Badana** — a rookie Front-End Developer who loves turning 
 
 ---
 
-## 📷 Live Demo
 
-Coming soon...
-
----
 
 ## 📦 Installation
 
