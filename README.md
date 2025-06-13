@@ -1,12 +1,68 @@
-# React + Vite
+# 💻 Sudarshan Badana Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Screenshot](./Screenshot%202025-06-13%20at%205.53.48%E2%80%AFPM.png)
 
-Currently, two official plugins are available:
+Welcome to my **Personal Portfolio Website**!  
+This is a fully responsive front-end project made using **React.js** and **Tailwind CSS**, designed to showcase my skills, projects, and contact information in a sleek, interactive way.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🌟 About Me
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Hi, I'm **Sudarshan Badana** — a rookie Front-End Developer who loves turning ideas into interactive and responsive websites. I'm currently learning:
+
+- React.js ⚛️  
+- JavaScript 🟨  
+- Figma 🎨  
+
+> I'm constantly building and improving — one line of code at a time.
+
+---
+
+## 🚀 Features
+
+- 🔥 Modern, responsive design
+- 🌙 Light/Dark mode toggle
+- 🌌 Animated star background
+- 🧠 Smooth navigation with React Router (if used)
+- 📄 Clean UI with Tailwind CSS
+- 🛠️ Projects, Skills, and Contact sections
+- 📱 Mobile friendly
+
+---
+
+## 🛠️ Built With
+
+- [React.js](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Vite](https://vitejs.dev/)
+
+---
+
+## 📷 Live Demo
+
+Coming soon...
+
+---
+
+## 📦 Installation
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
+
+2. Navigate to the folder:
+cd your-repo-name
+
+3.Install dependencies:
+npm install
+
+4.Start the development server:
+npm run dev
+
+📫 Contact
+
+Feel free to reach out via:
+
+Email: siddhusudarshan66@gmail.com
+
