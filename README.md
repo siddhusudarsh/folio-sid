@@ -2,7 +2,7 @@
 
 <img src="./port.png">
 
-## 🚀 **[🌐 View Live Website](https://siddhusudarsh.github.io/folio-sid/)**
+## 🚀 **[🌐 View Live Website](https://sudarshan-portfolio-theta.vercel.app/)**
 
 Welcome to my **Personal Portfolio Website**!  
 This is a fully responsive front-end project made using **React.js** and **Tailwind CSS**, designed to showcase my skills, projects, and contact information in a sleek, interactive way.
